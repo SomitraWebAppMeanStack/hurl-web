@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hurl-web/static/css/main.5d15df76.css",
-    "main.js": "/hurl-web/static/js/main.e8925e1b.js",
+    "main.js": "/hurl-web/static/js/main.42129b8a.js",
     "static/js/787.891002ba.chunk.js": "/hurl-web/static/js/787.891002ba.chunk.js",
     "index.html": "/hurl-web/index.html",
     "main.5d15df76.css.map": "/hurl-web/static/css/main.5d15df76.css.map",
-    "main.e8925e1b.js.map": "/hurl-web/static/js/main.e8925e1b.js.map",
+    "main.42129b8a.js.map": "/hurl-web/static/js/main.42129b8a.js.map",
     "787.891002ba.chunk.js.map": "/hurl-web/static/js/787.891002ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d15df76.css",
-    "static/js/main.e8925e1b.js"
+    "static/js/main.42129b8a.js"
   ]
 }
