@@ -16,6 +16,7 @@ function SettingContent() {
   const [isModalVisible2, setIsModalVisible2] = useState(false);
   const [isModalVisible3, setIsModalVisible3] = useState(false);
 
+  console.log(id);
   useEffect(() => {
     SettingDataList()
     // eslint-disable-next-line react-hooks/exhaustive-deps

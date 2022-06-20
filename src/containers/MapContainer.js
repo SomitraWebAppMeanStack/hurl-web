@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { GoogleMap, LoadScript,Marker  } from '@react-google-maps/api';
+import { GoogleMap, LoadScript} from '@react-google-maps/api';
 // import { PathUrl, Token } from '../config/Config';
 
 function MapContainer(props) {
@@ -9,13 +9,14 @@ function MapContainer(props) {
     useEffect(() => {
         setLocationONMap(props.locations)
         console.log(props.location,"driver location")
+           // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [])
     
     const mapStyles = {
         height: "60vh",
         width: "100%"
     };
-
+console.log(locationONMap,"map location");
     const defaultCenter = {
         lat: 51.509865, lng: -0.118092
     }

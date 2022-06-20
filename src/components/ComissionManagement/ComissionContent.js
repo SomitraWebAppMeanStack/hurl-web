@@ -17,6 +17,7 @@ function ComissionContent() {
 
   useEffect(() => {
     ComissionData()
+           // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
   
   const ComissionData = () =>{
