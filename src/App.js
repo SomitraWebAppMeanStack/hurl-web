@@ -68,7 +68,7 @@ function App() {
                 }}
               >
                 <Routes>
-                  <Route exact path="/" element={<LoginContent />} />
+                  <Route exact path="/hurl-web" element={<LoginContent />} />
                   {/* <Route exact path="/" element={<MyComponent />} /> */}
                   <Route exact path="/Admin/Map" element={<MapContainer />} />
 
