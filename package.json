@@ -1,7 +1,7 @@
 {
   "name": "hurl",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage":"https://somitrawebappmeanstack.github.io/hurl-web/",
   "dependencies": {
     "-": "^0.0.1",
