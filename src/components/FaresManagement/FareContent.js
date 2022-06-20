@@ -14,7 +14,8 @@ function FareContent() {
   const [form] = Form.useForm();
   const [form2] = Form.useForm();
 
-  const [specialData, setSpecialData] = useState([])
+  // const [specialData] = useState([])
+  const specialData = []
   const [basedata, setBasedata] = useState([])
   const [surgeData, setSurgeData] = useState([])
   useEffect(() => {

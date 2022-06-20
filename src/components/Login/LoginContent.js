@@ -47,7 +47,7 @@ function LoginContent() {
                                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non aperiam cum quas quod reprehenderit.</p>
                                   <ul>
                                       <li><Link to="/" className="facebook"><i className="fa fa-facebook-f"></i><span>facebook</span></Link></li>
-                                      <li><a to="/" className="twitter"><i className="fa fa-twitter"></i><span>twitter</span></a></li>
+                                      <li><Link to="/" className="twitter"><i className="fa fa-twitter"></i><span>twitter</span></Link></li>
                                   </ul>
                               </div>
                               <div className="form-input">
